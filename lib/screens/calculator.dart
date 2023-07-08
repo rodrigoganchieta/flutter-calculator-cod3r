@@ -1,4 +1,4 @@
-import 'package:calculator/models/memory.dart';
+import 'package:flutter_calculator_cod3r/models/memory.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../components/display.dart';
